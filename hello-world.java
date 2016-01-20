@@ -1,8 +1,10 @@
     /*
     Java Hello World example.
     */
-     
-    public class HelloWorldExample{
+    
+    package example;
+    
+    public class HelloWorld{
      
       public static void main(String args[]){
      
